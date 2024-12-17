@@ -1,0 +1,6 @@
+
+torchvision==0.10.0
+opencv-python==4.5.3.20210927
+transformers==4.6.1
+sentence-transformers==2.1.0
+faiss-cpu==1.7.1
